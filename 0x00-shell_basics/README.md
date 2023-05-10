@@ -52,6 +52,6 @@ docker run --rm -v $(pwd):/app alpine:latest sh /app/script-name
 
 This command will mount the current directory into the container and run the script inside the container.
 
-## Author
+## Author -
 
 This directory is created and maintained by [aristote-code](https://github.com/aristote-code). If you have any questions or suggestions, feel free to contact me at [gahimaaristote1@gmail.com](mailto:gahimaaristote1@gmail.com).
